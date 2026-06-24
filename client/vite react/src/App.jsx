@@ -56,7 +56,7 @@ function App() {
 
      <section className="hero">
        <h1>Hello, I am Yasin</h1>
-       <p>CS Student | Web Developer | Problem Solver</p>
+       <p>CS Student | Web Developer | rasha</p>
      </section>
 
      <section id="about">
